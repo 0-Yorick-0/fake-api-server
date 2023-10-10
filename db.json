@@ -1,0 +1,14 @@
+{
+    "killers":[
+        {
+            "name":"Michael Myers",
+            "weapon":"Knife",
+            "power":"Stalking"
+        },
+        {
+            "name":"Freddy Krueger",
+            "weapon":"Claws",
+            "power":"Dream Manipulation"
+        }
+    ] 
+}
